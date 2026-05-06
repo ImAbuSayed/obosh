@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/obosh/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Obosh](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Obosh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> নিঝুম রাতের অন্ধকারে তুমি শুধু ভাসো.. তুমি শুধু ভাসো..
+> বুকের ভেতর অচিন ব্যথায় চুপিচুপি হাসো
+> অবুঝ এই মনের মাঝে তোমারই যে বাসা.. তোমারই যে বাসা..
+> তোমায় ঘিরেই বেঁচে থাকার নতুন এক আশা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
