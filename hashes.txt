@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Obosh
+
+This log tracks the cryptographic history and versioning for the song **Obosh** (obosh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:21:58.363144 | `v1` | `8a65cb0809e841c8abc4a80145bf2eb00cc55f1ed1412f2f99265f72da8fe57a` | `96757e8cae17249a43f9acda1dd8ee62a980278b0857bc8c23df58fcf32b4375` | `2026-05-08_obosh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
